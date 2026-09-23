@@ -1,5 +1,5 @@
 {
-  "mantenimiento": false,
+  "mantenimiento": true,
   "versionMinima": "4.2.8.0.1",
   "mensaje": "Estamos mejorando los servidores. Vuelve en un rato."
 }
